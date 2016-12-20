@@ -1,0 +1,12 @@
+		#site-title{
+			position: absolute;
+			left: 145px;
+			top: 0px;
+            color: rgb(100, 165, 100);
+			font-family: "Helvetica",sans-serif;
+			font-size: 70px;
+			margin-top: 50px;
+			margin-left: 20px;
+			margin-bottom: 100px;
+			
+			}
